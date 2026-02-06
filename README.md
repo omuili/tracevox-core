@@ -62,9 +62,7 @@ Tracevox is developed with a **dual model**:
   - Production‑grade, fully managed hosting.
   - Additional security, compliance, and operational features.
   - Dedicated support and SLAs.
-
-> **Important:** When publishing the open‑source core to GitHub, **do not include the proprietary `enterprise/` directory or other internal enterprise‑only modules.**  
-> That code lives in a separate private repo and is not part of the open‑source distribution.
+  - Additional extensions (e.g. advanced security & compliance) that are not part of this open‑source core.
 
 ---
 
